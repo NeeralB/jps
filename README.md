@@ -1,1 +1,1 @@
-# jps
+# EAS-E project
